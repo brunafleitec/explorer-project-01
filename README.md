@@ -1,7 +1,6 @@
-
 # Primeiro Projeto Rocketseat Explorer
 
-No módulo referente a este projeto. Utilizamos a ferramenta Figma para criar uma landing page. Aplicamos fontes e cores personalizadas e como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.
+No módulo referente a este projeto, utilizamos a ferramenta Figma para criar uma landing page. Aplicamos fontes e cores personalizadas e aprendemos como posicionar e espaçar os elementos utilizando os conceitos de Box Model e Flexbox do CSS.
 
 
 
